@@ -1,3 +1,3 @@
 # DeepPrivacy-service-demo
 
-go to this link → https://github.com/dxlabskku/deepprivacy-demo
+https://github.com/dxlabskku/deepprivacy-demo
